@@ -7,16 +7,18 @@ Repository with the Samee Lab - Data Science Club Notes
 
 ## Schedule
 
-| Date        | Presenter  |  Course     | Link |
-| ------      | ----------- | ---- | ------ |
-| 24/10/2020  | Minjun | Generative Adversarial Networks (GANs) Specialization | https://www.coursera.org/specializations/generative-adversarial-networks-gans |
+| Date        | Presenter |  Course     | Link |
+| ------:     | ------:   | ------:     | ------: |
+| 06/11/2020  | Salvi     | TBD         | TBD |
+| 30/10/2020  | Zian      | TBD         | TBD |
+| 24/10/2020  | Minjun    | Generative Adversarial Networks (GANs) Specialization | https://www.coursera.org/specializations/generative-adversarial-networks-gans |
 
 
 
 __Notes :)__
 
-- Remember to update wiki every week - high quality and fast image
+- Remember to update the wiki every week
 
-Enjoy your learning!
+Happy learning!
 
 ---
