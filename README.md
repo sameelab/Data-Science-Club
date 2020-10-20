@@ -1,7 +1,18 @@
 # Data-Science-Club
 Repository with the Samee Lab - Data Science Club Notes
-
 ---
+
+
+
+
+## Schedule
+
+| Date |  Course | Link |
+| ------ | ----------- |
+| 24/10/2020  | Generative Adversarial Networks (GANs) Specialization | https://www.coursera.org/specializations/generative-adversarial-networks-gans
+
+
+
 __Advertisement :)__
 
 - __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
